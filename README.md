@@ -1,6 +1,6 @@
 # ESP32-C3 Long Term RTC Clock Test
 
-This repository accompanies the article "How precise is the timing of an ESP32-C3 processor in deep sleep? A personal experiment answers this question." published here: <soon>
+This repository accompanies the article "**How precise is the timing of an ESP32-C3 processor in deep sleep? A personal experiment answers this question.**" published here: https://medium.com/@androidcrypto/how-precise-is-the-timing-of-an-esp32-c3-processor-in-deep-sleep-12ccb7412fb2?sharedUserId=androidcrypto
 
 ## ESP32-C3 Long-Term Internal RTC Accuracy Tester
 
